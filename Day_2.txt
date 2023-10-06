@@ -1,0 +1,59 @@
+Day 2 from 100 Days of Swift
+
+Arrays
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
+
+
+
+Sets
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
+
+
+
+Tuples
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
+
+
+
+Arrays vs sets vs tuples
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
+
+
+
+Dictionaries
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
+
+
+
+Dictionary default values
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
+
+
+
+Creating empty collections
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
+
+
+
+Enumerations
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
+
+
+
+Enum associated values
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
+
+
+
+Enum raw values
+-----------------------------------------------------------------------------------------------
+See the details inside Day_2_Playground.
