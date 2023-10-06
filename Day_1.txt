@@ -1,0 +1,41 @@
+Day 1 from 100 Days of Swift
+
+Variables
+-----------------------------------------------------------------------------------------------
+See the details inside Day_1_Playground.
+
+
+
+Strings and integers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_1_Playground.
+
+
+
+Multi-line strings
+-----------------------------------------------------------------------------------------------
+See the details inside Day_1_Playground.
+
+
+
+Doubles and Booleans
+-----------------------------------------------------------------------------------------------
+See the details inside Day_1_Playground.
+
+
+
+String interpolation
+-----------------------------------------------------------------------------------------------
+See the details inside Day_1_Playground.
+
+
+
+Constants
+-----------------------------------------------------------------------------------------------
+See the details inside Day_1_Playground.
+
+
+
+Type annotations
+-----------------------------------------------------------------------------------------------
+See the details inside Day_1_Playground.
