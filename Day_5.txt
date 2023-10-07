@@ -1,0 +1,59 @@
+Day 5 from 100 Days of Swift
+
+Writing functions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+Accepting parameters
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+Returning values
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+Parameter labels
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+Omitting parameter labels
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+Default parameters
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+Variadic functions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+Writing throwing functions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+Running throwing functions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
+
+
+
+inout parameters
+-----------------------------------------------------------------------------------------------
+See the details inside Day_5_Playground.
