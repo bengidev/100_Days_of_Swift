@@ -1,0 +1,41 @@
+Day 4 from 100 Days of Swift
+
+For loops
+-----------------------------------------------------------------------------------------------
+See the details inside Day_4_Playground.
+
+
+
+While loops
+-----------------------------------------------------------------------------------------------
+See the details inside Day_4_Playground.
+
+
+
+Repeat loops
+-----------------------------------------------------------------------------------------------
+See the details inside Day_4_Playground.
+
+
+
+Exiting loops
+-----------------------------------------------------------------------------------------------
+See the details inside Day_4_Playground.
+
+
+
+Exiting multiple loops
+-----------------------------------------------------------------------------------------------
+See the details inside Day_4_Playground.
+
+
+
+Skipping items
+-----------------------------------------------------------------------------------------------
+See the details inside Day_4_Playground.
+
+
+
+Infinite loops
+-----------------------------------------------------------------------------------------------
+See the details inside Day_4_Playground.
