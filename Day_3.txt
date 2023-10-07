@@ -1,0 +1,53 @@
+Day 3 from 100 Days of Swift
+
+Arithmetic Operators
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+Operator overloading
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+Compound assignment operators
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+Comparison operators
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+Conditions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+Combining conditions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+The ternary operator
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+Switch statements
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
+
+
+
+Range operators
+-----------------------------------------------------------------------------------------------
+See the details inside Day_3_Playground.
