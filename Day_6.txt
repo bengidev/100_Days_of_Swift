@@ -1,0 +1,29 @@
+Day 6 from 100 Days of Swift
+
+Creating basic closures
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
+Accepting parameters in a closure
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
+Returning values from a closure
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
+Closures as parameters
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
+
+
+
+Trailing closure syntax
+-----------------------------------------------------------------------------------------------
+See the details inside Day_6_Playground.
