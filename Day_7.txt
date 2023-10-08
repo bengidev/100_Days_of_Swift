@@ -1,0 +1,35 @@
+Day 7 from 100 Days of Swift
+
+Using closures as parameters when they accept parameters
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
+
+
+
+Using closures as parameters when they return values
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
+
+
+
+Shorthand parameter names
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
+
+
+
+Closures with multiple parameters
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
+
+
+
+Returning closures from functions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
+
+
+
+Capturing values
+-----------------------------------------------------------------------------------------------
+See the details inside Day_7_Playground.
