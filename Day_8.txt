@@ -1,0 +1,41 @@
+Day 8 from 100 Days of Swift
+
+Creating your own structs
+-----------------------------------------------------------------------------------------------
+See the details inside Day_8_Playground.
+
+
+
+Computed properties
+-----------------------------------------------------------------------------------------------
+See the details inside Day_8_Playground.
+
+
+
+Property observers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_8_Playground.
+
+
+
+Methods
+-----------------------------------------------------------------------------------------------
+See the details inside Day_8_Playground.
+
+
+
+Mutating methods
+-----------------------------------------------------------------------------------------------
+See the details inside Day_8_Playground.
+
+
+
+Properties and methods of strings
+-----------------------------------------------------------------------------------------------
+See the details inside Day_8_Playground.
+
+
+
+Properties and methods of arrays
+-----------------------------------------------------------------------------------------------
+See the details inside Day_8_Playground.
