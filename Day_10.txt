@@ -1,0 +1,41 @@
+Day 10 from 100 Days of Swift
+
+Creating your own classes
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+Class inheritance
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+Overriding methods
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+Final classes
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+Copying objects
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+Deinitializers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
+
+
+
+Mutability
+-----------------------------------------------------------------------------------------------
+See the details inside Day_10_Playground.
