@@ -1,0 +1,29 @@
+Day 9 from 100 Days of Swift
+
+Initializers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
+
+
+
+Referring to the current instance
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
+
+
+
+Lazy properties
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
+
+
+
+Static properties and methods
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
+
+
+
+Access control
+-----------------------------------------------------------------------------------------------
+See the details inside Day_9_Playground.
