@@ -1,0 +1,59 @@
+Day 12 from 100 Days of Swift
+
+Handling missing data
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Unwrapping optionals
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Unwrapping with guard
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Force unwrapping
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Implicitly unwrapped optionals
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Nil coalescing
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Optional chaining
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Optional try
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Failable initializers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
+
+
+
+Typecasting
+-----------------------------------------------------------------------------------------------
+See the details inside Day_12_Playground.
