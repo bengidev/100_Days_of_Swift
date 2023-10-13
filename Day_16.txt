@@ -1,0 +1,17 @@
+Day 16 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_16_StormViewer.
+
+
+
+Listing images with FileManager
+-----------------------------------------------------------------------------------------------
+See the details inside Day_16_StormViewer.
+
+
+
+Designing our interface
+-----------------------------------------------------------------------------------------------
+See the details inside Day_16_StormViewer.
