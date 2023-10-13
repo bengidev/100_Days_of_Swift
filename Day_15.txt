@@ -1,0 +1,29 @@
+Day 15 from 100 Days of Swift
+
+Properties
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Static properties and methods
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Access control
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Polymorphism and typecasting
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Closures
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
