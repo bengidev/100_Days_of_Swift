@@ -1,0 +1,17 @@
+Day 17 from 100 Days of Swift
+
+Building a detail screen
+-----------------------------------------------------------------------------------------------
+See the details inside Day_17_StormViewer.
+
+
+
+Loading images with UIImage
+-----------------------------------------------------------------------------------------------
+See the details inside Day_17_StormViewer.
+
+
+
+Final tweaks: hidesBarsOnTap, safe area margins
+-----------------------------------------------------------------------------------------------
+See the details inside Day_17_StormViewer.
