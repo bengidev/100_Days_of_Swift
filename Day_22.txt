@@ -1,0 +1,23 @@
+Day 22 from 100 Days of Swift
+
+About technique projects
+-----------------------------------------------------------------------------------------------
+See the details inside Day_22_StormViewerEdited.
+
+
+
+UIActivityViewController explained
+-----------------------------------------------------------------------------------------------
+See the details inside Day_22_StormViewerEdited.
+
+
+
+Wrap up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_22_StormViewerEdited.
+
+
+
+Review for Project 3: StormViewerEdited
+-----------------------------------------------------------------------------------------------
+See the details inside Day_22_StormViewerEdited.
