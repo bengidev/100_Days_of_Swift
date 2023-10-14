@@ -1,0 +1,11 @@
+Day 25 from 100 Days of Swift
+
+Monitoring page loads: UIToolbar and UIProgressView
+-----------------------------------------------------------------------------------------------
+See the details inside Day_25_EasyBrowser.
+
+
+
+Refactoring for the win
+-----------------------------------------------------------------------------------------------
+See the details inside Day_25_EasyBrowser.
