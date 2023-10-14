@@ -1,0 +1,17 @@
+Day 19 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_19_GuessTheFlag.
+
+
+
+Designing your layout
+-----------------------------------------------------------------------------------------------
+See the details inside Day_19_GuessTheFlag.
+
+
+
+Making the basic game work: UIButton and CALayer
+-----------------------------------------------------------------------------------------------
+See the details inside Day_19_GuessTheFlag.
