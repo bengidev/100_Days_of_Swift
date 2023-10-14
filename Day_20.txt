@@ -1,0 +1,11 @@
+Day 20 from 100 Days of Swift
+
+Guess which flag: random numbers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_20_GuessTheFlag.
+
+
+
+From outlets to actions: creating an IBAction
+-----------------------------------------------------------------------------------------------
+See the details inside Day_20_GuessTheFlag.
