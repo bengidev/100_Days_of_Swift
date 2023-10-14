@@ -1,0 +1,17 @@
+Day 24 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_24_EasyBrowser.
+
+
+
+Creating a simple browser with WKWebView
+-----------------------------------------------------------------------------------------------
+See the details inside Day_24_EasyBrowser.
+
+
+
+Choosing a website: UIAlertController action sheets
+-----------------------------------------------------------------------------------------------
+See the details inside Day_24_EasyBrowser.
