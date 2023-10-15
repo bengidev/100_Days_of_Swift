@@ -1,0 +1,17 @@
+Day 28 from 100 Days of Swift
+
+Prepare for submission: lowercased() and IndexPath
+-----------------------------------------------------------------------------------------------
+See the details inside Day_28_WordScramble.
+
+
+
+Checking for valid answers
+-----------------------------------------------------------------------------------------------
+See the details inside Day_28_WordScramble.
+
+
+
+Or else what?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_28_WordScramble.
