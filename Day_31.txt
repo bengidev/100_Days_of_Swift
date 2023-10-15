@@ -1,0 +1,23 @@
+Day 31 from 100 Days of Swift
+
+Auto Layout metrics and priorities: constraints(withVisualFormat:)
+-----------------------------------------------------------------------------------------------
+See the details inside Day_31_AdvancedAutoLayout.
+
+
+
+Auto Layout metrics and priorities: constraints(withVisualFormat:)
+-----------------------------------------------------------------------------------------------
+See the details inside Day_31_AdvancedAutoLayout.
+
+
+
+Wrap up
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Review for Project 6: Auto Layout
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
