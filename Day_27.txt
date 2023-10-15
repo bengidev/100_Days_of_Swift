@@ -1,0 +1,23 @@
+Day 27 from 100 Days of Swift
+
+Capture lists in Swift: what’s the difference between weak, strong, and unowned references?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_27_WordScramble.
+
+
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_27_WordScramble.
+
+
+
+Reading from disk: contentsOfFile
+-----------------------------------------------------------------------------------------------
+See the details inside Day_27_WordScramble.
+
+
+
+Pick a word, any word: UIAlertController
+-----------------------------------------------------------------------------------------------
+See the details inside Day_27_WordScramble.
