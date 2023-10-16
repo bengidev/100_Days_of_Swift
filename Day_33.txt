@@ -1,0 +1,17 @@
+Day 33 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_33_WhitehousePetitions.
+
+
+
+Creating the basic UI: UITabBarController
+-----------------------------------------------------------------------------------------------
+See the details inside Day_33_WhitehousePetitions.
+
+
+
+Parsing JSON using the Codable protocol
+-----------------------------------------------------------------------------------------------
+See the details inside Day_33_WhitehousePetitions.
