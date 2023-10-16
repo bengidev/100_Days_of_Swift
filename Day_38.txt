@@ -1,0 +1,11 @@
+Day 38 from 100 Days of Swift
+
+Wrap up
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Review for Project 8: 7 Swifty Words
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
