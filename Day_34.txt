@@ -1,0 +1,11 @@
+Day 34 from 100 Days of Swift
+
+Rendering a petition: loadHTMLString
+-----------------------------------------------------------------------------------------------
+See the details inside Day_34_WhitehousePetitions.
+
+
+
+Finishing touches: didFinishLaunchingWithOptions
+-----------------------------------------------------------------------------------------------
+See the details inside Day_34_WhitehousePetitions.
