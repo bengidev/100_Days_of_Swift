@@ -1,0 +1,29 @@
+Day 39 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_39_WhitehousePetitions.
+
+
+
+Why is locking the UI bad?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_39_WhitehousePetitions.
+
+
+
+GCD 101: async()
+-----------------------------------------------------------------------------------------------
+See the details inside Day_39_WhitehousePetitions.
+
+
+
+Back to the main thread: DispatchQueue.main
+-----------------------------------------------------------------------------------------------
+See the details inside Day_39_WhitehousePetitions.
+
+
+
+Easy GCD using performSelector(inBackground:)
+-----------------------------------------------------------------------------------------------
+See the details inside Day_39_WhitehousePetitions.
