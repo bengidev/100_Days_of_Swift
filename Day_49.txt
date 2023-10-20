@@ -1,0 +1,17 @@
+Day 49 from 100 Days of Swift
+
+Fixing Project 10: Codable
+-----------------------------------------------------------------------------------------------
+See the details inside Day_49_NamesToFaces.
+
+
+
+Wrap up
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Review for Project 12: UserDefaults
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
