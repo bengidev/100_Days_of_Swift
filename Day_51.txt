@@ -1,0 +1,11 @@
+Day 51 from 100 Days of Swift
+
+Elements of Functional Programming
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Teaching Swift at Scale
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
