@@ -10,6 +10,7 @@ import SpriteKit
 class GameScene: SKScene {
     private var gameScore: SKLabelNode!
     
+    private var numRounds = 0
     private var score = 0 {
         didSet {
             gameScore.text = "Score: \(score)"
@@ -44,7 +45,34 @@ class GameScene: SKScene {
     }
 
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+        guard let touch = touches.first else { return }
+        let location = touch.location(in: self)
+        let tappedNodes = nodes(at: location)
         
+        for node in tappedNodes {
+            guard let whackSlot = node.parent?.parent as? WhackSlot else { continue }
+            if !whackSlot.isVisible { continue }
+            if whackSlot.isHit { continue }
+            
+            whackSlot.hit()
+            
+            if node.name == "charFriend" {
+                // They shouldn't have whacked this penguin
+                score -= 5
+                
+                run(SKAction.playSoundFileNamed("whackBad.caf",
+                                                waitForCompletion: false))
+            } else if node.name == "charEnemy" {
+                // They should have whacked this one
+                whackSlot.charNode.xScale = 0.85
+                whackSlot.charNode.yScale = 0.85
+                
+                score += 1
+                
+                run(SKAction.playSoundFileNamed("whack.caf",
+                                                waitForCompletion: false))
+            }
+        }
     }
     
     private func createSlot(at position: CGPoint) -> Void {
@@ -55,6 +83,21 @@ class GameScene: SKScene {
     }
     
     private func createEnemy() -> Void {
+        numRounds += 1
+        
+        if numRounds >= 30 {
+            for slot in slots {
+                slot.hide()
+            }
+            
+            let gameOver = SKSpriteNode(imageNamed: "gameOver")
+            gameOver.position = CGPoint(x: 512, y: 384)
+            gameOver.zPosition = 1
+            addChild(gameOver)
+            
+            return
+        }
+        
         popupTime *= 0.991
         
         slots.shuffle()
