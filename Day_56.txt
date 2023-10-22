@@ -1,0 +1,17 @@
+Day 56 from 100 Days of Swift
+
+Whack to win: SKAction sequences
+-----------------------------------------------------------------------------------------------
+See the details inside Day_56_WhackAPenguin.
+
+
+
+Wrap up
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Review for Project 14: Whack-a-Penguin
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
