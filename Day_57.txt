@@ -1,0 +1,23 @@
+Day 57 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_57_Animation.
+
+
+
+Preparing for action
+-----------------------------------------------------------------------------------------------
+See the details inside Day_57_Animation.
+
+
+
+Switch, case, animate: animate(withDuration:)
+-----------------------------------------------------------------------------------------------
+See the details inside Day_57_Animation.
+
+
+
+Transform: CGAffineTransform
+-----------------------------------------------------------------------------------------------
+See the details inside Day_57_Animation.
