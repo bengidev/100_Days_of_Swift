@@ -1,0 +1,17 @@
+Day 60 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_60_CapitalCities.
+
+
+
+Up and running with MapKit
+-----------------------------------------------------------------------------------------------
+See the details inside Day_60_CapitalCities.
+
+
+
+Annotations and accessory views: MKPinAnnotationView
+-----------------------------------------------------------------------------------------------
+See the details inside Day_60_CapitalCities.
