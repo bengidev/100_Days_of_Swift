@@ -1,0 +1,29 @@
+Day 64 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_62_Debugging.
+
+
+
+Basic Swift debugging using print()
+-----------------------------------------------------------------------------------------------
+See the details inside Day_62_Debugging.
+
+
+
+Debugging with assert()
+-----------------------------------------------------------------------------------------------
+See the details inside Day_62_Debugging.
+
+
+
+Debugging with breakpoints
+-----------------------------------------------------------------------------------------------
+See the details inside Day_62_Debugging.
+
+
+
+View debugging
+-----------------------------------------------------------------------------------------------
+See the details inside Day_62_Debugging.
