@@ -1,0 +1,23 @@
+Day 62 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_62_SpaceRace.
+
+
+
+Space: the final frontier
+-----------------------------------------------------------------------------------------------
+See the details inside Day_62_SpaceRace.
+
+
+
+Bring on the enemies: linearDamping, angularDamping
+-----------------------------------------------------------------------------------------------
+See the details inside Day_62_SpaceRace.
+
+
+
+Making contact: didBegin()
+-----------------------------------------------------------------------------------------------
+See the details inside Day_62_SpaceRace.
