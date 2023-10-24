@@ -1,0 +1,23 @@
+Day 67 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_67_JavaScriptInjection.
+
+
+
+Making a shell app
+-----------------------------------------------------------------------------------------------
+See the details inside Day_67_JavaScriptInjection.
+
+
+
+Adding an extension: NSExtensionItem
+-----------------------------------------------------------------------------------------------
+See the details inside Day_67_JavaScriptInjection.
+
+
+
+What do you want to get?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_67_JavaScriptInjection.
