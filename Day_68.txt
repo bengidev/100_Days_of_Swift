@@ -1,0 +1,17 @@
+Day 68 from 100 Days of Swift
+
+Establishing communication
+-----------------------------------------------------------------------------------------------
+See the details inside Day_68_JavaScriptInjection.
+
+
+
+Editing multiline text with UITextView
+-----------------------------------------------------------------------------------------------
+See the details inside Day_68_JavaScriptInjection.
+
+
+
+Fixing the keyboard: NotificationCenter
+-----------------------------------------------------------------------------------------------
+See the details inside Day_68_JavaScriptInjection.
