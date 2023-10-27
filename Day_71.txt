@@ -1,0 +1,17 @@
+Day 71 from 100 Days of Swift
+
+Making things go bang: SKEmitterNode
+-----------------------------------------------------------------------------------------------
+See the details inside Day_71_FireworksNight.
+
+
+
+Wrap up
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Review for Project 20: Fireworks Night
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
