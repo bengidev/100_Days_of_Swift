@@ -1,0 +1,17 @@
+Day 72 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_72_LocalNotifications.
+
+
+
+Scheduling notifications: UNUserNotificationCenter and UNNotificationRequest
+-----------------------------------------------------------------------------------------------
+See the details inside Day_72_LocalNotifications.
+
+
+
+Acting on responses
+-----------------------------------------------------------------------------------------------
+See the details inside Day_72_LocalNotifications.
