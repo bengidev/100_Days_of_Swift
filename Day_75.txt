@@ -1,0 +1,17 @@
+Day 75 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_75_DetectABeacon.
+
+
+
+Requesting location: Core Location
+-----------------------------------------------------------------------------------------------
+See the details inside Day_75_DetectABeacon.
+
+
+
+Hunting the beacon: CLBeaconRegion
+-----------------------------------------------------------------------------------------------
+See the details inside Day_75_DetectABeacon.
