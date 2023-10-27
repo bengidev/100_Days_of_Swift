@@ -1,0 +1,17 @@
+Day 70 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_70_FireworksNight.
+
+
+
+Ready... aim... fire: Timer and follow()
+-----------------------------------------------------------------------------------------------
+See the details inside Day_70_FireworksNight.
+
+
+
+Swipe to select
+-----------------------------------------------------------------------------------------------
+See the details inside Day_70_FireworksNight.
