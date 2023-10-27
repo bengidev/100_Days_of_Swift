@@ -1,0 +1,23 @@
+Day 77 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_77_SwiftyNinja.
+
+
+
+Basics quick start: SKShapeNode
+-----------------------------------------------------------------------------------------------
+See the details inside Day_77_SwiftyNinja.
+
+
+
+Shaping up for action: CGPath and UIBezierPath
+-----------------------------------------------------------------------------------------------
+See the details inside Day_77_SwiftyNinja.
+
+
+
+Enemy or bomb: AVAudioPlayer
+-----------------------------------------------------------------------------------------------
+See the details inside Day_77_SwiftyNinja.
