@@ -1,0 +1,23 @@
+Day 83 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_83_SelfieShare.
+
+
+
+Importing photos again
+-----------------------------------------------------------------------------------------------
+See the details inside Day_83_SelfieShare.
+
+
+
+Going peer to peer: MCSession, MCBrowserViewController
+-----------------------------------------------------------------------------------------------
+See the details inside Day_83_SelfieShare.
+
+
+
+Invitation only: MCPeerID
+-----------------------------------------------------------------------------------------------
+See the details inside Day_83_SelfieShare.
