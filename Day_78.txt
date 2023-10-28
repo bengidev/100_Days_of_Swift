@@ -1,0 +1,17 @@
+Day 78 from 100 Days of Swift
+
+Follow the sequence
+-----------------------------------------------------------------------------------------------
+See the details inside Day_78_SwiftyNinja.
+
+
+
+Slice to win
+-----------------------------------------------------------------------------------------------
+See the details inside Day_78_SwiftyNinja.
+
+
+
+Game over, man: SKTexture
+-----------------------------------------------------------------------------------------------
+See the details inside Day_78_SwiftyNinja.
