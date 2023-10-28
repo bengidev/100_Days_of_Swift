@@ -1,0 +1,23 @@
+Day 80 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_80_SwiftStrings.
+
+
+
+Strings are not arrays
+-----------------------------------------------------------------------------------------------
+See the details inside Day_80_SwiftStrings.
+
+
+
+Working with strings in Swift
+-----------------------------------------------------------------------------------------------
+See the details inside Day_80_SwiftStrings.
+
+
+
+Formatting strings with NSAttributedString
+-----------------------------------------------------------------------------------------------
+See the details inside Day_80_SwiftStrings.
