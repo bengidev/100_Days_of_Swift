@@ -1,0 +1,11 @@
+Day 79 from 100 Days of Swift
+
+Wrap up
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
+
+
+
+Review for Project 23: Swifty Ninja
+-----------------------------------------------------------------------------------------------
+See the details inside Hacking With Swift / Twitter.
