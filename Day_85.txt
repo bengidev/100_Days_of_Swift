@@ -1,0 +1,11 @@
+Day 85 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_85_MarbleMaze.
+
+
+
+Loading a level: categoryBitMask, collisionBitMask, contactTestBitMask
+-----------------------------------------------------------------------------------------------
+See the details inside Day_85_MarbleMaze.
