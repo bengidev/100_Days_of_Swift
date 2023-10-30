@@ -1,0 +1,35 @@
+Day 88 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_88_CoreGraphics.
+
+
+
+Creating the sandbox
+-----------------------------------------------------------------------------------------------
+See the details inside Day_88_CoreGraphics.
+
+
+
+Drawing into a Core Graphics context with UIGraphicsImageRenderer
+-----------------------------------------------------------------------------------------------
+See the details inside Day_88_CoreGraphics.
+
+
+
+Ellipses and checkerboards
+-----------------------------------------------------------------------------------------------
+See the details inside Day_88_CoreGraphics.
+
+
+
+Transforms and lines
+-----------------------------------------------------------------------------------------------
+See the details inside Day_88_CoreGraphics.
+
+
+
+Images and text
+-----------------------------------------------------------------------------------------------
+See the details inside Day_88_CoreGraphics.
