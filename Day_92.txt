@@ -1,0 +1,23 @@
+Day 92 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_92_SecretSwift.
+
+
+
+The basic text editor
+-----------------------------------------------------------------------------------------------
+See the details inside Day_92_SecretSwift.
+
+
+
+Writing somewhere safe: the iOS keychain
+-----------------------------------------------------------------------------------------------
+See the details inside Day_92_SecretSwift.
+
+
+
+Touch to activate: Touch ID, Face ID and LocalAuthentication
+-----------------------------------------------------------------------------------------------
+See the details inside Day_92_SecretSwift.
