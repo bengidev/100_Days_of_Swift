@@ -1,0 +1,17 @@
+Day 94 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_94_ExplodingMonkeys.
+
+
+
+Building the environment: SKTexture and filling a path
+-----------------------------------------------------------------------------------------------
+See the details inside Day_94_ExplodingMonkeys.
+
+
+
+Mixing UIKit and SpriteKit: UISlider and SKView
+-----------------------------------------------------------------------------------------------
+See the details inside Day_94_ExplodingMonkeys.
