@@ -1,0 +1,29 @@
+Day 97 from 100 Days of Swift
+
+Setting up
+-----------------------------------------------------------------------------------------------
+See the details inside Day_97_Instruments.
+
+
+
+What are we working with?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_97_Instruments.
+
+
+
+What can Instruments tell us?
+-----------------------------------------------------------------------------------------------
+See the details inside Day_97_Instruments.
+
+
+
+Fixing the bugs: slow shadows
+-----------------------------------------------------------------------------------------------
+See the details inside Day_97_Instruments.
+
+
+
+Fixing the bugs: wasted allocations
+-----------------------------------------------------------------------------------------------
+See the details inside Day_97_Instruments.
